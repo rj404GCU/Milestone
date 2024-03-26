@@ -3,7 +3,6 @@
 
 ### Links
 [Screen Cast Video](https://), 
-[Github Repository](https://github.com/rj404GCU/391),
 
 
 ## Instructor Feedback
