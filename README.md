@@ -4,7 +4,7 @@
 ### Links
 [Screen Cast Video](https://), 
 [Github Repository](https://github.com/rj404GCU/391),
-[Postman](https://api.postman.com/collections/31209245-bdad6218-d250-4358-8d81-b8d7a55c80ee?access_key=PMAT-01HNVK9T259GZ1DB2ZD4RXZD21)
+
 
 ## Instructor Feedback
 Rebecca, thank you for meeting all requirements on this assignment. 
