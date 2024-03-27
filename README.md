@@ -87,11 +87,13 @@ outlined in the user stories.
 - Home Page
 ![Home](home1.png)
 - View Product
-![List](view1.png)
+![View](view1.png)
 - Create Page
 ![Create](create1.png)
 - List Products
 ![List](list1.png)
+- Delete Products
+![Delete](list1.png)
 
 ### Risks To Monitor
 <ul>
