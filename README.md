@@ -2,7 +2,7 @@
 ### CST 391
 
 ### Links
-[Screen Cast Video](https://), 
+[Screen Cast Video](https://www.loom.com/share/af0539608453493a9f947870a70dd924?sid=bbf4469e-1931-4618-8f4c-74836d8a2a97)
 
 
 ## Instructor Feedback
@@ -22,10 +22,8 @@ product. In addition, it should be able to update, add and delete products in th
 | POST product  | http://localhost:3000/products/addproduct  |Add product to the inventory.       |
 | PUT product   | http://localhost:3000/products/updateproduct  |Update product in the inventory.       |
 | DELETE product|http://localhost:3000/products/5  |Delete a product in the inventory.       |
-| GET Search Results 
-for Vendor     |http://localhost:3000/products/product/:search |Searches a term in the vendor name.       |
-| GET Search Results 
-for Product Name|http://localhost:3000/products/product/:search | Searches a term in the name.       |
+| GET Search Results for Vendor |http://localhost:3000/products/product/:search |Searches a term in the vendor name.       |
+| GET Search Results for Product Name|http://localhost:3000/products/product/:search | Searches a term in the name.       |
 
 ### Introduction
 The purpose of this application will be able access the mySQL database with all the available
@@ -72,14 +70,15 @@ outlined in the user stories.
 #### Initial UI Sitemap
 ![Site Map](sitemap.png)
 #### Initial UI Wireframes:
-   - Home Page
+   - Home Page <br>
    ![Home](home.png)
-   - View Product
+   - View Product<br>
    ![List](view.png)
-   - Create Page
+   - Create Page<br>
    ![Create](create.png)
-   - List Products
+   - List Products<br>
    ![List](list.png)
+
 #### Initial UML Classes:
 ![UML](uml.png)
 
@@ -93,7 +92,7 @@ outlined in the user stories.
 - List Products
 ![List](list1.png)
 - Delete Products
-![Delete](list1.png)
+![Delete](delete1.png)
 
 ### Risks To Monitor
 <ul>
