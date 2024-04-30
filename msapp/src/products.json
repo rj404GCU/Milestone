@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "T-shirt",
+    "description": "Comfortable cotton t-shirt",
+    "quantity": 100,
+    "wholesalePrice": 10.00,
+    "shippingPrice": 2.50,
+    "vendor": "ABC Apparel"
+  },
+  {
+    "id": 2,
+    "name": "Jeans",
+    "description": "Classic denim jeans",
+    "quantity": 50,
+    "wholesalePrice": 30.00,
+    "shippingPrice": 5.00,
+    "vendor": "XYZ Denim Co."
+  },
+  {
+    "id": 3,
+    "name": "Hoodie",
+    "description": "Warm and cozy hoodie",
+    "quantity": 75,
+    "wholesalePrice": 20.00,
+    "shippingPrice": 4.00,
+    "vendor": "DEF Outerwear"
+  },
+  {
+    "id": 4,
+    "name": "Sneakers",
+    "description": "Stylish sports shoes",
+    "quantity": 60,
+    "wholesalePrice": 40.00,
+    "shippingPrice": 7.50,
+    "vendor": "GHI Footwear"
+  },
+  {
+    "id": 5,
+    "name": "Dress",
+    "description": "Elegant evening dress",
+    "quantity": 30,
+    "wholesalePrice": 50.00,
+    "shippingPrice": 10.00,
+    "vendor": "JKL Fashion"
+  },
+  {
+    "id": 6,
+    "name": "Sweatpants",
+    "description": "Comfy lounge pants",
+    "quantity": 90,
+    "wholesalePrice": 15.00,
+    "shippingPrice": 3.00,
+    "vendor": "MNO Activewear"
+  },
+  {
+    "id": 7,
+    "name": "Blouse",
+    "description": "Chic office blouse",
+    "quantity": 40,
+    "wholesalePrice": 25.00,
+    "shippingPrice": 5.00,
+    "vendor": "PQR Style Co."
+  },
+  {
+    "id": 8,
+    "name": "Jacket",
+    "description": "Cool leather jacket",
+    "quantity": 20,
+    "wholesalePrice": 70.00,
+    "shippingPrice": 12.50,
+    "vendor": "STU Outerwear"
+  },
+  {
+    "id": 9,
+    "name": "Sweater",
+    "description": "Soft wool sweater",
+    "quantity": 70,
+    "wholesalePrice": 35.00,
+    "shippingPrice": 6.00,
+    "vendor": "VWX Knitwear"
+  },
+  {
+    "id": 10,
+    "name": "Skirt",
+    "description": "Flirty mini skirt",
+    "quantity": 25,
+    "wholesalePrice": 20.00,
+    "shippingPrice": 4.50,
+    "vendor": "YZA Fashion"
+  },
+  {
+    "id": 11,
+    "name": "Polo Shirt",
+    "description": "Casual polo shirt",
+    "quantity": 80,
+    "wholesalePrice": 12.00,
+    "shippingPrice": 3.50,
+    "vendor": "BCD Apparel"
+  },
+  {
+    "id": 12,
+    "name": "Leggings",
+    "description": "Stretchy yoga leggings",
+    "quantity": 50,
+    "wholesalePrice": 18.00,
+    "shippingPrice": 4.00,
+    "vendor": "EFG Activewear"
+  },
+  {
+    "id": 13,
+    "name": "Coat",
+    "description": "Warm winter coat",
+    "quantity": 35,
+    "wholesalePrice": 60.00,
+    "shippingPrice": 10.00,
+    "vendor": "HIJ Outerwear"
+  },
+  {
+    "id": 14,
+    "name": "Tank Top",
+    "description": "Basic tank top",
+    "quantity": 120,
+    "wholesalePrice": 8.00,
+    "shippingPrice": 2.00,
+    "vendor": "KLM Apparel"
+  },
+  {
+    "id": 15,
+    "name": "Shorts",
+    "description": "Casual denim shorts",
+    "quantity": 45,
+    "wholesalePrice": 15.00,
+    "shippingPrice": 3.50,
+    "vendor": "NOP Apparel"
+  }
+]
